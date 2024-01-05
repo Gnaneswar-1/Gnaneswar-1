@@ -1,4 +1,4 @@
-<h1 align="center>I AM A SOFTWARE DEVELOER</h1>
+<h1 align="center">I AM A SOFTWARE DEVELOER</h1>
 
 - 👋 Hi, I’m @Gnaneswar-1
 - 👀 I’m interested in software developer
